@@ -19,7 +19,6 @@ public class Personne {
     int age;
     String adresse;
     boolean matrimonial; 
-    
     Pays paysdenaissance;
     
     
