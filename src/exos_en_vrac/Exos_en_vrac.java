@@ -24,6 +24,7 @@ public class Exos_en_vrac {
 //        Exercice3.launch();
 //        Exercice4.launch();
 //        Exercice5.launch();
+          Exercice6.launch();
         
 //        Pays france = new Pays("France");
 //        Pays belgique = new Pays("Belgique");
