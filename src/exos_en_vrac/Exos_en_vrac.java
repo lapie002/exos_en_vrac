@@ -23,16 +23,17 @@ public class Exos_en_vrac {
 //        Exercice2.launch();
 //        Exercice3.launch();
 //        Exercice4.launch();
+//        Exercice5.launch();
         
-        Pays france = new Pays("France");
-        Pays belgique = new Pays("Belgique");
-        
-        
-        Personne p1 = new Personne(1,"bontemps","steve",20,"rue de vias",false,france);
-        Personne p2 = new Personne(2,"bontemps","roger",40,"rue de la biere",true,belgique);
-        
-        System.out.println(p1.toString());
-        System.out.println(p2.toString()); 
+//        Pays france = new Pays("France");
+//        Pays belgique = new Pays("Belgique");
+//        
+//        
+//        Personne p1 = new Personne(1,"bontemps","steve",20,"rue de vias",false,france);
+//        Personne p2 = new Personne(2,"bontemps","roger",40,"rue de la biere",true,belgique);
+//        
+//        System.out.println(p1.toString());
+//        System.out.println(p2.toString()); 
         
     }
     
